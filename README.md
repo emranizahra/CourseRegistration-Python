@@ -7,4 +7,4 @@ for running, you should run the ui.py
 
 # The following images show the result of this code
 
-! [student panel](C:\Users\Asanargha0\Pictures/1.png)
+![student panel](C:\Users\Asanargha0\Pictures/1.png)
