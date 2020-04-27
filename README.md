@@ -5,6 +5,6 @@ This program is a samp[le code for course registration of student in univesity/ 
 # for Running the code
 for running, you should run the ui.py
 
-#The following images show the result of this code
-#1.student panel
-![GitHub Logo](C:\Users\Asanargha0\Pictures/1.png)
+# The following images show the result of this code
+# 1_student panel
+!(C:\Users\Asanargha0\Pictures/1.png)
