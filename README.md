@@ -1,8 +1,9 @@
 # CourseRegistration-Python
-*Sample code for University Course Registration (Python)
+*Sample code for University Course Registration (Python)*
 This code is for:
-* course registration of student in univesity
-* giving marks to student
+* registring the student based on the ID number and name
+* course registration of student in univesity based on the ID course and ID teacher
+* giving marks to student 
 * Adding and dropping course by student and so on.  
 
 # Running the code
